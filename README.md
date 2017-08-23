@@ -1,3 +1,3 @@
 # Tensorflow
-# Python, TensorFlow with Keras
+# Python
 @ Softmax function test
