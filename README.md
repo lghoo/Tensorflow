@@ -1,3 +1,2 @@
-# Tensorflow
-# Python
-@ Softmax function test
+## Tensorflow with Python
+* Softmax function test
